@@ -1,6 +1,6 @@
 #CSS to Head
 
-This script automatically places the content of your CSS files into the head of your HTML files for use with such CSS inliners such as [MailChimps](http://templates.mailchimp.com/resources/inline-css/). Note that this script will follow @import links.
+This script automatically places the content of your CSS files into the head of your HTML files for use with such CSS inliners such as [MailChimp's](http://templates.mailchimp.com/resources/inline-css/). Note that this script will follow @import links.
 
 ##Dependencies
 
